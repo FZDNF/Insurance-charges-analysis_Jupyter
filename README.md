@@ -1,4 +1,4 @@
-# Insurance Cost Analysis – Determinanten von Versicherungskosten
+# Insurance Charges Analysis – Determinanten von Versicherungskosten
 
 In diesem Projekt analysiere ich zentrale Einflussfaktoren auf Gesundheitsversicherungskosten mithilfe explorativer Datenanalyse und linearer Regressionsmodelle. 
 
