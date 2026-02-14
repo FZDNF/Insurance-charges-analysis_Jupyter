@@ -72,7 +72,7 @@ Die Regressionsanalyse wurde sowohl mit **statsmodels** (statistische Inferenz) 
 ## 5. Projektinhalte
 
 - 📓 **Jupyter Notebook**: vollständige Analyse inkl. Code, Visualisierungen und Interpretation  
-- 📄 **Power-BI**: -Ergänzend- strukturierte Darstellung der Ergebnisse als Balken/Liniendiagramm
+- 📊 **Power-BI**: -Ergänzend- strukturierte Darstellung der Ergebnisse als Balken/Liniendiagramm
 - **UPDATE: 🗄️SQlite**: Eine kurze Darstellung der wichtigsten deskriptiven Eckdaten in SQlite
 
 ---
