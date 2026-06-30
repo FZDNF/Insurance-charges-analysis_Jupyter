@@ -4,7 +4,7 @@ In diesem Projekt analysiere ich zentrale Einflussfaktoren auf Gesundheitsversic
 
 Ziel ist es, statistische Zusammenhänge zu identifizieren und verständlich zu interpretieren.
 
-Das Projekt dient als Lern- und Bewerbungsprojekt für Jobs in der Datenanalyse
+Es handelt sich um ein Bewerbungsprojekt.
 
 Link zum Download: https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/insurance.csv
 
@@ -86,9 +86,12 @@ Die Regressionsanalyse wurde sowohl mit **statsmodels** (statistische Inferenz) 
 
 ## Über mich:
 
-- Masterstudent (M.Sc.) der Psychologie
+- Psychologiestudent (M.Sc.)
 - Bereits viel Erfahrung mit SPSS (Regressionsanalyse, Moderation-/Mediation in PROCESS, MANOVA, eigene Versuchsplanung). Sowohl per GUI, als auch per Syntax gearbeitet
 - Auch mit Python, inkl. Tools, bereits Erfahrungen gesammelt (Studium und Selbststudium), sowie Erfahrung in der Datenpflege und Erstellung im Rahmen von Praktika (Excel und andere MS Office Anwendungen)
+- Grundkenntnisse in SQL
+- Grundkenntnisse in MS Power BI
+- Erfahrung mit SIEM-Systemen
 
 📫 Kontakt:  
 - E-Mail: fazaud@gmail.com  
