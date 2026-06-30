@@ -16,8 +16,8 @@ Link zum Download: https://raw.githubusercontent.com/stedy/Machine-Learning-with
 ## 1. Ziel des Projekts
 
 - Analyse individueller Faktoren, die mit Versicherungskosten zusammenhängen  
-- Anwendung klassischer Methoden der deskriptiven Statistik und Regression   
-- Übungsprojekt zur Übertragung statistischer Ergebnisse in inhaltliche Aussagen
+- Anwendung klassischer Methoden der deskriptiven Statistik und Inferenzstatistik  
+
 
 ---
 
